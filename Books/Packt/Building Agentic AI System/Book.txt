@@ -1,0 +1,165 @@
+Building Agentic AI Systems:  Create intelligent, autonomous AI agents that can reason, plan, and adapt
+- Anjanava Biswas, Wrick Talukdar
+
+Key benefits
+Understand the foundations and advanced techniques of building intelligent, autonomous AI agents
+Learn advanced techniques for reflection, introspection, tool use, planning, and collaboration in agentic systems
+Explore crucial aspects of trust, safety, and ethics in AI agent development and applications
+Description
+Gain unparalleled insights into the future of AI autonomy with this comprehensive guide to designing and deploying autonomous AI agents that leverage generative AI (GenAI) to plan, reason, and act. Written by industry-leading AI architects and recognized experts shaping global AI standards and building real-world enterprise AI solutions, it explores the fundamentals of agentic systems, detailing how AI agents operate independently, make decisions, and leverage tools to accomplish complex tasks. Starting with the foundations of GenAI and agentic architectures, you’ll explore decision-making frameworks, self-improvement mechanisms, and adaptability. The book covers advanced design techniques, such as multi-step planning, tool integration, and the coordinator, worker, and delegator approach for scalable AI agents. Beyond design, it addresses critical aspects of trust, safety, and ethics, ensuring AI systems align with human values and operate transparently. Real-world applications illustrate how agentic AI transforms industries such as automation, finance, and healthcare. With deep insights into AI frameworks, prompt engineering, and multi-agent collaboration, this book equips you to build next-generation adaptive, scalable AI agents that go beyond simple task execution and act with minimal human intervention.
+Who is this book for?
+This book is ideal for AI developers, machine learning engineers, and software architects who want to advance their skills in building intelligent, autonomous agents. It's perfect for professionals with a strong foundation in machine learning and programming, particularly those familiar with Python and large language models. While prior experience with generative AI is beneficial, the book covers foundational concepts for those new to agentic systems.
+What you will learn
+Master the core principles of GenAI and agentic systems
+Understand how AI agents operate, reason, and adapt in dynamic environments
+Enable AI agents to analyze their own actions and improvise
+Implement systems where AI agents can leverage external tools and plan complex tasks
+Apply methods to enhance transparency, accountability, and reliability in AI
+Explore real-world implementations of AI agents across industries
+
+Table of Contents
+17 Chapters
+Part 1: Foundations of Generative AI and Agentic Systems
+Chevron down icon
+Part 1: Foundations of Generative AI and Agentic Systems
+Chapter 1: Fundamentals of Generative AI
+Chevron down icon
+Chapter 1: Fundamentals of Generative AI
+Introduction to generative AI
+Types of generative AI models
+Applications of generative AI
+Challenges and limitations of generative AI
+Summary
+Questions
+Answers
+Further reading
+References
+Chapter 2: Principles of Agentic Systems
+Chevron down icon
+Chapter 2: Principles of Agentic Systems
+Technical requirements
+Understanding self-governance, agency, and autonomy
+Reviewing intelligent agents and their characteristics
+Exploring the architecture of agentic systems
+Understanding multi-agent systems
+Summary
+Questions
+Answers
+Subscribe to AI_Distilled, the go-to newsletter for AI professionals
+Chapter 3: Essential Components of Intelligent Agents
+Chevron down icon
+Chapter 3: Essential Components of Intelligent Agents
+Technical requirements
+Knowledge representation in intelligent agents
+Reasoning in intelligent agents
+Learning mechanisms for adaptive agents
+Decision-making and planning in agentic systems
+Enhancing agent capabilities with generative AI
+Summary
+Questions
+Answers
+Part 2: Designing and Implementing Generative AI-Based Agents
+Chevron down icon
+Part 2: Designing and Implementing Generative AI-Based Agents
+Chapter 4: Reflection and Introspection in Agents
+Chevron down icon
+Chapter 4: Reflection and Introspection in Agents
+Technical requirements
+The importance of reflection in agents
+Introspection in intelligent agents
+Implementing reflective capabilities
+Use cases and examples
+Summary
+Questions
+Answers
+Subscribe to AI_Distilled, the go-to newsletter for AI professionals
+Chapter 5: Enabling Tool Use and Planning in Agents
+Chevron down icon
+Chapter 5: Enabling Tool Use and Planning in Agents
+Technical requirements
+Understanding the concept of tool use in agents
+Planning algorithms for agents
+Integrating tool use and planning
+Exploring practical implementations
+Summary
+Questions
+Answers
+Chapter 6: Exploring the Coordinator, Worker, and Delegator Approach
+Chevron down icon
+Chapter 6: Exploring the Coordinator, Worker, and Delegator Approach
+Technical requirements
+Understanding the CWD model
+Designing agents with role assignments
+Communication and collaboration between agents
+Implementing the CWD approach in generative AI systems
+Summary
+Questions
+Answers
+Subscribe to AI_Distilled, the go-to newsletter for AI professionals
+Chapter 7: Effective Agentic System Design Techniques
+Chevron down icon
+Chapter 7: Effective Agentic System Design Techniques
+Technical requirements
+Focused system prompts and instructions for agents
+State spaces and environment modeling
+Agent memory architecture and context management
+Sequential and parallel processing in agentic workflows
+Summary
+Questions
+Answers
+Part 3: Trust, Safety, Ethics, and Applications
+Chevron down icon
+Part 3: Trust, Safety, Ethics, and Applications
+Chapter 8: Building Trust in Generative AI Systems
+Chevron down icon
+Chapter 8: Building Trust in Generative AI Systems
+Technical requirements
+Importance of trust in AI
+Techniques for establishing trust
+Implementing transparency and explainability
+Handling uncertainty and biases
+Summary
+Questions
+Answers
+Subscribe to AI_Distilled, the go-to newsletter for AI professionals
+Chapter 9: Managing Safety and Ethical Considerations
+Chevron down icon
+Chapter 9: Managing Safety and Ethical Considerations
+Understanding potential risks and challenges
+Ensuring safe and responsible AI
+Exploring ethical guidelines and frameworks
+Addressing privacy and security concerns
+Summary
+Questions
+Answers
+Chapter 10: Common Use Cases and Applications
+Chevron down icon
+Chapter 10: Common Use Cases and Applications
+Creative and artistic applications
+Natural language processing and conversational agents
+Robotics and autonomous systems
+Decision support and optimization
+Summary
+Questions
+Answers
+Subscribe to AI_Distilled, the go-to newsletter for AI professionals
+Chapter 11: Conclusion and Future Outlook
+Chevron down icon
+Chapter 11: Conclusion and Future Outlook
+Recap of key concepts
+Emerging trends and research directions
+Artificial general intelligence
+Challenges and opportunities
+Summary
+Chapter 12: Unlock Your Exclusive Benefits
+Chevron down icon
+Chapter 12: Unlock Your Exclusive Benefits
+Unlock this Book’s Free Benefits in 3 Easy Steps
+Index
+Chevron down icon
+Index
+Why subscribe?
+Other Books You May Enjoy
+Chevron down icon
+Other Books You May Enjoy
+

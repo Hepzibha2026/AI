@@ -1,0 +1,9 @@
+Part 1: Foundations of Generative AI and Agentic Systems
+This part establishes the fundamental concepts of generative AI and agentic systems, providing you with a solid theoretical foundation for understanding and developing intelligent, autonomous agents.
+
+This part contains the following chapters:
+
+Chapter 1, Fundamentals of Generative AI
+Chapter 2, Principles of Agentic Systems
+Chapter 3, Essential Components of Intelligent Agents
+
