@@ -35,5 +35,13 @@ mac  -> python3
 
 import this
 
+exit()
+or Ctl + Z
 
 mutable and immutable in python
+object and mutability
+object - everything is object in python.
+object properties - unique id, unique type, value
+mutable and immutable
+mutable is changable
+immutable is not changable
