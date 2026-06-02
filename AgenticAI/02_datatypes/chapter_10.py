@@ -31,3 +31,7 @@ print(f"Updated chai recipe: {chai_recipe}")
 chai_size = chai_order["size"]
 print(f"Chai size is: {chai_size}")
 
+customer_note = chai_order.get("note", "No Note")
+print(f"customer_note is:  {customer_note}")
+
+
