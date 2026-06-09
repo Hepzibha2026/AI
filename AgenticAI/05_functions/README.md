@@ -18,3 +18,23 @@ fetch_sales()
 filter_valid_orders()
 summarize_data()
 
+Hiding Implementation Details
+
+You're building a simple app that registers users.
+You want to separate concerns:  getting input, validating it, and saving it.
+
+Task:
+Write register_user() that calls:
+get_input()
+validate_input()
+save_to_db()
+
+
+Improving Readability
+
+You sell different chai sizes.
+Instead of writing formulas everywhere, create a function.
+Task:
+Write calculate_bill(cups, price_per_cup)
+Return total bill
+Use this function for multiple orders
