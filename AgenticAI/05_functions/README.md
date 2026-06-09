@@ -38,3 +38,12 @@ Task:
 Write calculate_bill(cups, price_per_cup)
 Return total bill
 Use this function for multiple orders
+
+
+Improving Traceability
+
+Your shop adds a 10% VAT on every order.
+You want this to be consistent and traceable.
+Task:
+Write add_vat(price, vat_rate)
+Use it to compute final prices for 3 orders
